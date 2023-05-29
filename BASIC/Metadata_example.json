@@ -1,0 +1,21 @@
+{
+    "image1.jpg": {
+        "description": "A beautiful sunset over a serene lake",
+        "etsy_listing_parameters": {
+            "title": "Beautiful Sunset Photograph",
+            "price": "30.00",
+            "quantity": "1",
+            ...
+        }
+    },
+    "image2.jpg": {
+        "description": "A close-up of a red rose with dew drops",
+        "etsy_listing_parameters": {
+            "title": "Red Rose Close-Up Photograph",
+            "price": "25.00",
+            "quantity": "1",
+            ...
+        }
+    },
+    ...
+}
